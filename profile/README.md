@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250px" src="https://github.com/user-attachments/assets/a022967f-38e6-4703-9e35-b3b6793f1f7a"/>
+  <img src="https://github.com/user-attachments/assets/99249961-5b10-4f5e-8002-3debea09b41f"/>
 
   <em><h3>a low-key cyber space</h3></em>
 </div>
